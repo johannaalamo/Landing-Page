@@ -1,0 +1,14 @@
+.card {
+    border: none;
+    border-radius: 0.5rem;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+  }
+  
+  .card-text {
+    color: #555555a8;
+  }
+
+  
