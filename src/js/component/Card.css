@@ -11,4 +11,7 @@
     color: #555555a8;
   }
 
-  
+  .card-img-top {
+    width: auto;
+    height: auto;
+  }

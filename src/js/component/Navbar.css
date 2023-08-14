@@ -1,13 +1,16 @@
 .navbar {
-    background-color: #c3c3c37e;
+    background-color: #363636cc;
   }
   
   .navbar-brand {
     font-size: 1.5rem;
-    color: #000000;
+    color: #ffffff;
   }
   
   .navbar-nav .nav-link {
-    color: #333;
+    color: #ffffff;
   }
   
+  .navbar-collapse{
+    justify-content: end;
+  }
